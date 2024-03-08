@@ -2,7 +2,8 @@
 
 Technical Skills: Cell Culture, Drug Resistance, PCR, Genome Sequencing Analysis, Sanger Sequencing analysis, Python, R package, Unix
 ### Education
-<ul> Molecular Biology, PhD </ul>
+- Molecular Biology, PhD
+- M.Sc. Microbiology
 
 ### Work Experience
 Molecular Biologist @ B. P. KOIRALA INSTITUTE OF HEALTH SCIECES
